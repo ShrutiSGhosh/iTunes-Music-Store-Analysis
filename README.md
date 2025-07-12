@@ -104,7 +104,7 @@ Organized by analysis phases:
 Connect on [LinkedIn](https://www.linkedin.com/in/shruti-sumadhur-ghosh-61306855/))
 
 ---
-video link: 
+video link: https://drive.google.com/drive/folders/1Es4YTpd2q1u5rYQdPNHdF3iHnLfynJbF?usp=sharing
 ## 🌐 License
 
 This project is for educational purposes only.
